@@ -1,12 +1,28 @@
-## Hi there 👋
+<div align=center>
+  <a href="https://github.com/LushIndustries">
+    <img src="https://komarev.com/ghpvc/?username=lushindustries&style=for-the-badge">
+  </a>
 
-<!--
+<br />
+<br />
 
-**Here are some ideas to get you started:**
+<center>:warning:<strong>Majority of our work is licensed if public, if you would like to use it commercially please contact an administrator.</strong></center>
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+## ✨ Lush Industries
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://doxiado.vercel.app/">
+        <img src="https://raw.githubusercontent.com/lushindustries/.github/main/media/doxiado.png" width="100px;" alt="Doxiado">
+        <br />
+        <sub><b>Doxiado</b></sub>
+        </img>
+      </a>
+      <br />
+      <a href="https://github.com/doxiado-dev" title="Owner">👑</a>
+    </td>
+  </tr>
+</table>
+
+</div>

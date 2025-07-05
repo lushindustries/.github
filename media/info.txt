@@ -1,0 +1,1 @@
+This directory contains a part of the media files used in Lush Industries' README.md file.
